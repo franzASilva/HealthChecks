@@ -12,7 +12,7 @@ namespace HealthChecks.API.Controllers;
 public class DummyController() : BaseController
 {
     /// <summary>
-    /// Get all summies values
+    /// Get all Dummies values
     /// </summary>
     /// <param name="dummyService"></param>
     /// <param name="id"></param>
@@ -37,7 +37,7 @@ public class DummyController() : BaseController
     }
 
     /// <summary>
-    /// Get all summies values
+    /// Get all Dummies values
     /// </summary>
     /// <param name="dummyService"></param>
     /// <param name="ct"></param>
