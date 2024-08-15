@@ -13,9 +13,9 @@ public class InMemoryDbHealthCheck : IHealthCheck
 
         if (dummy is not null)
         {
-            return HealthCheckResult.Healthy($"Remote endpoints is healthy.");
+            return HealthCheckResult.Healthy("In memory db is healthy.");
         }
 
-        return HealthCheckResult.Unhealthy("Remote endpoint is unhealthy");
+        return HealthCheckResult.Unhealthy("In memory db is unhealthy");
     }
 }
