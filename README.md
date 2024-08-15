@@ -5,6 +5,11 @@
 - ASP.NET Core pattern for healthcheck;
 - health checks: Sql Server, remote access, in memory database, ...
 
+
+![image](https://github.com/user-attachments/assets/75984404-7fb6-4e94-a15d-6bc52013834b)
+
+
+
 **Use Swagger to help test**
 
 ![image](https://github.com/user-attachments/assets/d9b56be2-7f2a-4172-8554-044c83c533b8)
