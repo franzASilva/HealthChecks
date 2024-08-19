@@ -1,8 +1,7 @@
-# Result Pattern 
-**Objective:** avoid using exception in business flow control
+# Health Checks
+**Objective:** ASP.NET Core pattern for healthcheck
 - [.NET 8](https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview);
 - Controllers API;
-- ASP.NET Core pattern for healthcheck;
 - health checks: Sql Server, remote access, in memory database, ...
 
 
